@@ -1,0 +1,1117 @@
+2022-06-01 15:37:14.842 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:37:15.266 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:37:15.268 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:37:15.269 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:37:15.269 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:37:15.270 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:37:15.878 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:37:16.076 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 202.4295ms
+2022-06-01 15:37:16.078 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:37:16.082 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.8767ms
+2022-06-01 15:37:16.198 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:37:16.279 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 81.7181ms
+2022-06-01 15:37:24.089 +08:00 [INF] Application is shutting down...
+2022-06-01 15:39:38.043 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:39:38.558 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:39:38.559 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:39:38.559 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:39:38.560 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:39:38.560 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:39:39.247 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:39:39.408 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 161.3491ms
+2022-06-01 15:39:39.421 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:39:39.424 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.4697ms
+2022-06-01 15:39:39.520 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:39:39.623 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 103.7755ms
+2022-06-01 15:41:23.483 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:41:24.069 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:41:24.070 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:41:24.070 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:41:24.071 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:41:24.072 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:41:24.181 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:41:24.332 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:41:24.333 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 155.5710ms
+2022-06-01 15:41:24.336 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.7829ms
+2022-06-01 15:41:24.616 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:41:24.706 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.7128ms
+2022-06-01 15:41:28.387 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:41:28.389 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.4460ms
+2022-06-01 15:41:28.399 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:41:28.402 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.0930ms
+2022-06-01 15:41:28.588 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:41:28.594 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 5.5078ms
+2022-06-01 15:42:10.473 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:42:11.135 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:42:11.136 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:42:11.137 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:42:11.138 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:42:11.139 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:42:11.438 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:42:11.581 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:42:11.583 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 149.6103ms
+2022-06-01 15:42:11.583 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.0053ms
+2022-06-01 15:42:11.688 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:42:11.775 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.3715ms
+2022-06-01 15:42:16.341 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:42:16.344 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 2.6281ms
+2022-06-01 15:42:16.351 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:42:16.351 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.6035ms
+2022-06-01 15:42:16.430 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:42:16.434 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.5178ms
+2022-06-01 15:42:17.811 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:42:17.813 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.8102ms
+2022-06-01 15:42:17.822 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:42:17.823 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.3233ms
+2022-06-01 15:42:17.884 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:42:17.892 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.3805ms
+2022-06-01 15:42:18.228 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:42:18.229 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.0534ms
+2022-06-01 15:42:18.239 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:42:18.239 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.8709ms
+2022-06-01 15:42:18.300 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:42:18.309 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.1755ms
+2022-06-01 15:42:18.427 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:42:18.428 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.6165ms
+2022-06-01 15:42:18.436 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:42:18.438 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.7606ms
+2022-06-01 15:42:18.502 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:42:18.509 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.3868ms
+2022-06-01 15:42:41.710 +08:00 [INF] Application is shutting down...
+2022-06-01 15:43:28.852 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:43:29.390 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:43:29.391 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:43:29.393 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:43:29.393 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:43:29.394 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:43:29.483 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:43:29.592 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 110.4393ms
+2022-06-01 15:43:29.605 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:43:29.608 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.6689ms
+2022-06-01 15:43:29.692 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:43:29.758 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.5624ms
+2022-06-01 15:43:29.947 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:43:29.952 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 4.9360ms
+2022-06-01 15:43:29.969 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:43:29.974 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 4.7644ms
+2022-06-01 15:43:30.101 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:43:30.106 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.5528ms
+2022-06-01 15:44:37.523 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:44:38.123 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:44:38.124 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:44:38.124 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:44:38.125 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:44:38.126 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:44:38.250 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:44:38.397 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:44:38.398 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 151.5720ms
+2022-06-01 15:44:38.400 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.0399ms
+2022-06-01 15:44:38.626 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:44:38.730 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 103.7517ms
+2022-06-01 15:44:49.898 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/health - -
+2022-06-01 15:44:49.928 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/health - - - 200 - text/plain 30.3515ms
+2022-06-01 15:44:49.947 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/favicon.ico - -
+2022-06-01 15:44:49.950 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/favicon.ico - - - 404 0 - 2.9647ms
+2022-06-01 15:44:52.699 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/health - -
+2022-06-01 15:44:52.700 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/health - - - 200 - text/plain 1.1552ms
+2022-06-01 15:45:03.261 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 15:45:03.264 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 15:45:03.303 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 15:45:03.492 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 15:45:03.907 +08:00 [INF] Executing OkObjectResult, writing value of type 'SqlSugar.Api.Response.ResponseResult`1[[System.Collections.Generic.IEnumerable`1[[Sqlsugar.Domain.Model.BaseCoderule, Sqlsugar.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 15:45:03.969 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 658.8963ms
+2022-06-01 15:45:03.972 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 15:45:03.975 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 713.8110ms
+2022-06-01 15:46:00.084 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:46:00.631 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:46:00.632 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:46:00.633 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:46:00.634 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:46:00.635 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:46:00.758 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:46:00.902 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 146.4720ms
+2022-06-01 15:46:00.908 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:46:00.910 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.0232ms
+2022-06-01 15:46:01.307 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:46:01.396 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.0193ms
+2022-06-01 15:46:59.326 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:56:10.357 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:56:26.632 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:56:52.789 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:58:22.924 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:58:38.372 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:59:46.708 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 15:59:51.269 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 15:59:51.271 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 15:59:51.272 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 15:59:51.272 +08:00 [INF] Hosting environment: Development
+2022-06-01 15:59:51.272 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 15:59:57.718 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 15:59:57.840 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 124.3704ms
+2022-06-01 15:59:57.841 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 15:59:57.843 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.8859ms
+2022-06-01 15:59:58.029 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 15:59:58.113 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 84.0502ms
+2022-06-01 16:01:24.729 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:01:24.754 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:01:24.787 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:01:24.980 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 16:01:25.387 +08:00 [INF] Executing OkObjectResult, writing value of type 'SqlSugar.Api.Response.ResponseResult`1[[System.Collections.Generic.IEnumerable`1[[Sqlsugar.Domain.Model.BaseCoderule, Sqlsugar.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 16:01:25.424 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 631.4925ms
+2022-06-01 16:01:25.427 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:01:25.430 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 700.9941ms
+2022-06-01 16:04:31.562 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:04:32.121 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:04:32.122 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:04:32.123 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:04:32.124 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:04:32.124 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:04:32.792 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:04:32.971 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 187.8248ms
+2022-06-01 16:04:32.986 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:04:32.990 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.5443ms
+2022-06-01 16:04:33.206 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:04:33.325 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.1322ms
+2022-06-01 16:07:30.812 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:07:31.278 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:07:31.279 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:07:31.280 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:07:31.281 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:07:31.281 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:07:31.370 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:07:31.483 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 114.6326ms
+2022-06-01 16:07:31.485 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:07:31.487 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.8858ms
+2022-06-01 16:07:31.537 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:07:31.605 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 67.8969ms
+2022-06-01 16:07:34.931 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:07:34.933 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.2526ms
+2022-06-01 16:07:34.941 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:07:34.943 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.9044ms
+2022-06-01 16:07:34.984 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:07:34.994 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.3874ms
+2022-06-01 16:08:26.301 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:08:26.854 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:08:26.855 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:08:26.856 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:08:26.857 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:08:26.857 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:08:27.607 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:08:27.762 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 159.6254ms
+2022-06-01 16:08:27.766 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:08:27.770 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.9597ms
+2022-06-01 16:08:27.872 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:08:27.962 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.1078ms
+2022-06-01 16:09:25.789 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:09:26.488 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:09:26.489 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:09:26.489 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:09:26.490 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:09:26.490 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:09:26.630 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:09:26.773 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:09:26.774 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 147.5239ms
+2022-06-01 16:09:26.775 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.7013ms
+2022-06-01 16:09:26.873 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:09:26.968 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.6393ms
+2022-06-01 16:10:21.022 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:10:21.591 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:10:21.593 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:10:21.594 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:10:21.595 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:10:21.596 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:10:21.691 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:10:21.838 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:10:21.840 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 151.6361ms
+2022-06-01 16:10:21.841 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.8133ms
+2022-06-01 16:10:21.949 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:10:22.041 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.9827ms
+2022-06-01 16:10:36.759 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:10:36.761 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.6516ms
+2022-06-01 16:10:36.768 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:10:36.769 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.3929ms
+2022-06-01 16:10:36.843 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:10:36.849 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.0803ms
+2022-06-01 16:12:44.254 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:12:44.845 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:12:44.846 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:12:44.847 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:12:44.847 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:12:44.848 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:12:45.033 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:12:45.139 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 108.4597ms
+2022-06-01 16:12:45.146 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:12:45.148 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.4269ms
+2022-06-01 16:12:45.218 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:12:45.285 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.8671ms
+2022-06-01 16:13:17.644 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:13:18.194 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:13:18.195 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:13:18.196 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:13:18.198 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:13:18.199 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:13:18.418 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:13:18.618 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 204.5232ms
+2022-06-01 16:13:18.623 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:13:18.625 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.0182ms
+2022-06-01 16:13:18.705 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:13:18.770 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 65.4415ms
+2022-06-01 16:13:27.136 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:13:27.698 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:13:27.700 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:13:27.701 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:13:27.701 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:13:27.702 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:13:27.843 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:13:28.036 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:13:28.038 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 198.3004ms
+2022-06-01 16:13:28.039 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.9615ms
+2022-06-01 16:13:28.135 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:13:28.205 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 69.4216ms
+2022-06-01 16:17:47.249 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:47.250 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.7509ms
+2022-06-01 16:17:47.258 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:47.260 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.4672ms
+2022-06-01 16:17:47.410 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:47.417 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.4498ms
+2022-06-01 16:17:48.064 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:48.065 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.1023ms
+2022-06-01 16:17:48.073 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:48.074 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.9217ms
+2022-06-01 16:17:48.166 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:48.169 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.3150ms
+2022-06-01 16:17:48.271 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:48.272 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.3128ms
+2022-06-01 16:17:48.281 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:48.282 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.8901ms
+2022-06-01 16:17:48.329 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:48.333 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3.3687ms
+2022-06-01 16:17:48.471 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:48.473 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.4552ms
+2022-06-01 16:17:48.483 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:48.485 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.9351ms
+2022-06-01 16:17:48.524 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:48.529 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.9174ms
+2022-06-01 16:17:48.651 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:48.652 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 0.8426ms
+2022-06-01 16:17:48.660 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:48.661 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.1308ms
+2022-06-01 16:17:48.706 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:48.713 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.6341ms
+2022-06-01 16:17:48.827 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:48.829 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.6961ms
+2022-06-01 16:17:48.836 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:48.837 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.0144ms
+2022-06-01 16:17:48.877 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:48.881 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3.9562ms
+2022-06-01 16:17:49.000 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:49.001 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 0.8451ms
+2022-06-01 16:17:49.010 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:49.011 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.1755ms
+2022-06-01 16:17:49.051 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:49.056 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.4438ms
+2022-06-01 16:17:49.168 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:49.169 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 0.8763ms
+2022-06-01 16:17:49.177 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:49.179 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.6363ms
+2022-06-01 16:17:49.217 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:49.224 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.1372ms
+2022-06-01 16:17:49.347 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:49.350 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 3.3026ms
+2022-06-01 16:17:49.359 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:49.360 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.3596ms
+2022-06-01 16:17:49.398 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:49.416 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 17.8338ms
+2022-06-01 16:17:49.519 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:49.521 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.8226ms
+2022-06-01 16:17:49.531 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:49.533 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.7460ms
+2022-06-01 16:17:49.578 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:49.580 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.5123ms
+2022-06-01 16:17:49.746 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:49.747 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.2294ms
+2022-06-01 16:17:49.754 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:49.755 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.9314ms
+2022-06-01 16:17:49.788 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:49.796 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.8651ms
+2022-06-01 16:17:49.929 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:49.930 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 1.5277ms
+2022-06-01 16:17:49.937 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:49.938 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.8274ms
+2022-06-01 16:17:49.972 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:49.980 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.5624ms
+2022-06-01 16:17:50.120 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:50.121 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 0.7678ms
+2022-06-01 16:17:50.129 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:50.130 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.3978ms
+2022-06-01 16:17:50.160 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:50.163 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.6011ms
+2022-06-01 16:17:50.304 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:17:50.305 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 0.8730ms
+2022-06-01 16:17:50.314 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:17:50.315 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 0.7575ms
+2022-06-01 16:17:50.346 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:17:50.348 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.4808ms
+2022-06-01 16:18:40.420 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:18:40.931 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:18:40.932 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:18:40.933 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:18:40.934 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:18:40.935 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:18:41.097 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:18:41.229 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:18:41.230 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 134.7747ms
+2022-06-01 16:18:41.232 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.9211ms
+2022-06-01 16:18:41.311 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:18:41.391 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 79.6084ms
+2022-06-01 16:21:50.656 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:21:51.282 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:21:51.283 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:21:51.284 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:21:51.284 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:21:51.285 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:21:51.550 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:21:51.717 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:21:51.720 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 171.9056ms
+2022-06-01 16:21:51.721 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.5638ms
+2022-06-01 16:21:51.820 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:21:51.937 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 116.5631ms
+2022-06-01 16:22:22.467 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:22:23.078 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:22:23.078 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:22:23.079 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:22:23.080 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:22:23.081 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:22:23.207 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:22:23.359 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 154.9299ms
+2022-06-01 16:22:23.360 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:22:23.364 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 4.0301ms
+2022-06-01 16:22:23.459 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:22:23.544 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 85.1334ms
+2022-06-01 16:23:37.698 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:23:38.261 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:23:38.262 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:23:38.262 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:23:38.263 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:23:38.263 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:23:38.392 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:23:38.541 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 152.2897ms
+2022-06-01 16:23:38.541 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:23:38.544 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.9209ms
+2022-06-01 16:23:38.646 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:23:38.730 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 83.2016ms
+2022-06-01 16:23:46.748 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:23:46.769 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:23:46.803 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:23:46.990 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 16:23:47.433 +08:00 [INF] Executing OkObjectResult, writing value of type 'SqlSugar.Api.Response.ResponseResult`1[[System.Collections.Generic.IEnumerable`1[[Sqlsugar.Domain.Model.BaseCoderule, Sqlsugar.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 16:23:47.484 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 670.5938ms
+2022-06-01 16:23:47.487 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:23:47.490 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 741.7937ms
+2022-06-01 16:25:39.284 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:26:03.262 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:26:09.225 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:26:09.226 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:26:09.227 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:26:09.228 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:26:09.228 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:26:11.412 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:26:11.652 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 243.4496ms
+2022-06-01 16:26:11.812 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:26:11.967 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 154.7649ms
+2022-06-01 16:26:16.882 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:26:16.915 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:26:16.958 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:35:59.196 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:35:59.944 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:35:59.946 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:35:59.947 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:35:59.948 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:35:59.949 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:36:01.615 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:36:01.839 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 227.5107ms
+2022-06-01 16:36:01.964 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:36:02.095 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 130.5829ms
+2022-06-01 16:36:08.068 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:36:08.095 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:36:08.146 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:37:58.262 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 16:37:58.420 +08:00 [INF] Executing OkObjectResult, writing value of type 'SqlSugar.Api.Response.ResponseResult`1[[System.Collections.Generic.IEnumerable`1[[Sqlsugar.Domain.Model.BaseCoderule, Sqlsugar.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 16:37:58.467 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 110314.1847ms
+2022-06-01 16:37:58.470 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:37:58.473 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 110404.4626ms
+2022-06-01 16:40:49.397 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:40:49.852 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:40:49.853 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:40:49.854 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:40:49.855 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:40:49.856 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:40:50.274 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:40:50.460 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 190.1778ms
+2022-06-01 16:40:50.481 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:40:50.484 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.4114ms
+2022-06-01 16:40:50.570 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:40:50.674 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 103.6927ms
+2022-06-01 16:40:57.394 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:40:57.419 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:40:57.454 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:40:57.659 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 16:40:57.887 +08:00 [INF] Executing ContentResult with HTTP Response ContentType of application/json;charset=utf-8
+2022-06-01 16:40:57.894 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 433.6682ms
+2022-06-01 16:40:57.897 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:40:57.900 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 359 application/json;charset=utf-8 506.2222ms
+2022-06-01 16:41:25.925 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:41:25.927 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:41:25.930 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:41:25.938 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 16:41:25.944 +08:00 [INF] Executing ContentResult with HTTP Response ContentType of application/json;charset=utf-8
+2022-06-01 16:41:25.949 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 12.5171ms
+2022-06-01 16:41:25.951 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:41:25.953 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 359 application/json;charset=utf-8 27.6888ms
+2022-06-01 16:41:29.229 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 16:41:29.230 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.0397ms
+2022-06-01 16:47:23.858 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 16:47:24.286 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 16:47:24.287 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 16:47:24.288 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 16:47:24.289 +08:00 [INF] Hosting environment: Development
+2022-06-01 16:47:24.290 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 16:47:24.728 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 16:47:24.901 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 175.3291ms
+2022-06-01 16:47:24.910 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 16:47:24.917 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 7.2149ms
+2022-06-01 16:47:25.022 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 16:47:25.131 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 108.4230ms
+2022-06-01 16:47:28.212 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 16:47:28.234 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:47:28.273 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 16:47:28.469 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 16:47:28.696 +08:00 [INF] Executing ContentResult with HTTP Response ContentType of application/json;charset=utf-8
+2022-06-01 16:47:28.702 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 424.0555ms
+2022-06-01 16:47:28.705 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 16:47:28.710 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 359 application/json;charset=utf-8 498.0815ms
+2022-06-01 16:47:35.848 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 16:47:35.851 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 2.7538ms
+2022-06-01 16:47:36.516 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 16:47:36.519 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.5481ms
+2022-06-01 16:47:36.709 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 16:47:36.710 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.4070ms
+2022-06-01 16:47:36.882 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 16:47:36.882 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 0.8977ms
+2022-06-01 16:47:37.080 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 16:47:37.081 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.5772ms
+2022-06-01 17:03:40.813 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:03:41.305 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:03:41.307 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:03:41.308 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:03:41.309 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:03:41.310 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:03:42.200 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:03:42.404 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 208.3170ms
+2022-06-01 17:03:42.405 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:03:42.418 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 12.6830ms
+2022-06-01 17:03:42.551 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:03:42.716 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 165.1447ms
+2022-06-01 17:03:50.657 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 105
+2022-06-01 17:03:50.664 +08:00 [INF] CORS policy execution successful.
+2022-06-01 17:03:50.689 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:03:50.730 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:03:50.933 +08:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SqlSugar.Api.Controllers.ValidateModelAttribute+ValidationError, SqlSugar.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-06-01 17:03:50.974 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 238.5827ms
+2022-06-01 17:03:50.977 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:03:50.978 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 105 - 200 91 application/json;+charset=utf-8 320.4678ms
+2022-06-01 17:04:43.692 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:04:44.278 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:04:44.279 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:04:44.280 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:04:44.281 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:04:44.282 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:04:44.405 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:04:44.582 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 179.8927ms
+2022-06-01 17:04:44.583 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:04:44.586 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.5011ms
+2022-06-01 17:04:44.709 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:04:44.811 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 102.1802ms
+2022-06-01 17:04:53.960 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:04:54.543 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:04:54.544 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:04:54.545 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:04:54.546 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:04:54.546 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:04:54.657 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:04:54.830 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:04:54.830 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 174.6475ms
+2022-06-01 17:04:54.833 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.6056ms
+2022-06-01 17:04:54.938 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:04:55.026 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 87.4820ms
+2022-06-01 17:05:02.006 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:05:02.590 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:05:02.592 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:05:02.593 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:05:02.594 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:05:02.594 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:05:02.874 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:05:02.983 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:05:02.984 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 111.7248ms
+2022-06-01 17:05:02.986 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.6679ms
+2022-06-01 17:05:03.063 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:05:03.155 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.3982ms
+2022-06-01 17:05:13.796 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 105
+2022-06-01 17:05:13.802 +08:00 [INF] CORS policy execution successful.
+2022-06-01 17:05:13.825 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:05:13.865 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:05:14.052 +08:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SqlSugar.Api.Extensions.ValidateModelAttribute+ValidationError, SqlSugar.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-06-01 17:05:14.092 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 220.9567ms
+2022-06-01 17:05:14.095 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:05:14.096 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 105 - 200 91 application/json;+charset=utf-8 300.2066ms
+2022-06-01 17:07:04.027 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:07:04.591 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:07:04.598 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:07:04.599 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:07:04.600 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:07:04.600 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:07:04.779 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:07:04.963 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 189.2575ms
+2022-06-01 17:07:04.971 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:07:04.974 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.7870ms
+2022-06-01 17:07:05.097 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:07:05.211 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 113.3792ms
+2022-06-01 17:08:03.105 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:08:03.664 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:08:03.666 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:08:03.667 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:08:03.667 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:08:03.668 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:08:03.863 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:08:04.000 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:08:04.001 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 140.9056ms
+2022-06-01 17:08:04.003 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.6416ms
+2022-06-01 17:08:04.102 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:08:04.189 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.9512ms
+2022-06-01 17:08:19.144 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 135
+2022-06-01 17:08:19.151 +08:00 [INF] CORS policy execution successful.
+2022-06-01 17:08:19.176 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:08:19.217 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:08:19.404 +08:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SqlSugar.Api.Extensions.ValidateModelAttribute+ValidationError, SqlSugar.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-06-01 17:08:19.443 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 220.4846ms
+2022-06-01 17:08:19.446 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:08:19.448 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 135 - 200 244 application/json;+charset=utf-8 303.6808ms
+2022-06-01 17:09:11.280 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 30
+2022-06-01 17:09:11.281 +08:00 [INF] CORS policy execution successful.
+2022-06-01 17:09:11.285 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:09:11.288 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:09:11.311 +08:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SqlSugar.Api.Extensions.ValidateModelAttribute+ValidationError, SqlSugar.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-06-01 17:09:11.314 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 13.5018ms
+2022-06-01 17:09:11.315 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 17:09:11.320 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 30 - 200 391 application/json;+charset=utf-8 40.6041ms
+2022-06-01 17:19:21.669 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:19:22.105 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:19:22.106 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:19:22.107 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:19:22.107 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:19:22.108 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:19:22.682 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:19:22.841 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 161.9752ms
+2022-06-01 17:19:22.852 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:19:22.855 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.9243ms
+2022-06-01 17:19:22.940 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:19:23.050 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 110.0312ms
+2022-06-01 17:19:27.314 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 17:19:27.340 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:19:27.375 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:19:27.573 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 17:19:27.813 +08:00 [INF] Executing ContentResult with HTTP Response ContentType of application/json;charset=utf-8
+2022-06-01 17:19:27.821 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 439.1162ms
+2022-06-01 17:19:27.824 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:19:27.827 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 359 application/json;charset=utf-8 513.2109ms
+2022-06-01 17:19:41.666 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:41.669 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 2.4853ms
+2022-06-01 17:19:44.632 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:44.634 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.8387ms
+2022-06-01 17:19:45.137 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:45.140 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.1709ms
+2022-06-01 17:19:45.330 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:45.332 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.7293ms
+2022-06-01 17:19:45.516 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:45.519 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 2.4338ms
+2022-06-01 17:19:45.688 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:45.691 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 2.1035ms
+2022-06-01 17:19:45.866 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:45.868 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.7941ms
+2022-06-01 17:19:46.050 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:46.052 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.6023ms
+2022-06-01 17:19:46.222 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:46.224 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 2.1512ms
+2022-06-01 17:19:46.394 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:46.395 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.6998ms
+2022-06-01 17:19:46.565 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:19:46.566 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.0839ms
+2022-06-01 17:20:24.981 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:20:25.566 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:20:25.567 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:20:25.569 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:20:25.570 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:20:25.570 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:20:25.846 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:20:25.995 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 152.0515ms
+2022-06-01 17:20:26.008 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:20:26.011 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.5981ms
+2022-06-01 17:20:26.115 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:20:26.227 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 112.6793ms
+2022-06-01 17:20:29.453 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:20:29.491 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 38.3780ms
+2022-06-01 17:20:30.070 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:20:30.074 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.4714ms
+2022-06-01 17:20:30.231 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:20:30.232 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.4130ms
+2022-06-01 17:20:33.534 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 17:20:33.536 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:20:33.573 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:20:33.763 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 17:20:33.970 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 391.7697ms
+2022-06-01 17:20:33.973 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:20:34.036 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 - application/problem+json 502.2343ms
+2022-06-01 17:21:14.213 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:21:14.811 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:21:14.813 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:21:14.813 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:21:14.814 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:21:14.815 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:21:14.939 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:21:15.104 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 168.0431ms
+2022-06-01 17:21:15.106 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:21:15.109 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.7380ms
+2022-06-01 17:21:15.237 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:21:15.338 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 100.7650ms
+2022-06-01 17:22:19.877 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:22:20.456 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:22:20.457 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:22:20.459 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:22:20.460 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:22:20.461 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:22:20.700 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:22:20.851 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 153.2472ms
+2022-06-01 17:22:20.853 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:22:20.855 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.1826ms
+2022-06-01 17:22:20.952 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:22:21.065 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 113.3916ms
+2022-06-01 17:23:01.771 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:23:02.372 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:23:02.373 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:23:02.374 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:23:02.375 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:23:02.376 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:23:02.506 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:23:02.708 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 204.0647ms
+2022-06-01 17:23:02.730 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:23:02.736 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 5.7219ms
+2022-06-01 17:23:02.861 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:23:02.996 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 134.5668ms
+2022-06-01 17:23:09.501 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 17:23:09.527 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:23:09.562 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:23:09.754 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 17:23:09.960 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 392.3547ms
+2022-06-01 17:23:09.963 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:23:10.000 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 - application/problem+json 499.0278ms
+2022-06-01 17:23:32.502 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:23:33.096 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:23:33.098 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:23:33.099 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:23:33.100 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:23:33.101 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:23:33.226 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:23:33.367 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 17:23:33.367 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 144.5901ms
+2022-06-01 17:23:33.370 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.5675ms
+2022-06-01 17:23:33.476 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:23:33.569 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 93.2256ms
+2022-06-01 17:30:01.834 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:30:01.861 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 27.9158ms
+2022-06-01 17:52:34.466 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 17:52:34.470 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:52:34.510 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 17:52:34.713 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 17:52:34.919 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 401.8878ms
+2022-06-01 17:52:34.922 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 17:52:34.960 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 - application/problem+json 493.2185ms
+2022-06-01 17:56:10.634 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:56:11.554 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:56:11.557 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:56:11.558 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:56:11.559 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:56:11.560 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:56:13.882 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:56:14.140 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 262.3200ms
+2022-06-01 17:56:14.287 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:56:14.455 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 168.3467ms
+2022-06-01 17:56:18.490 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 17:57:55.264 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 17:57:56.272 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 17:57:56.273 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 17:57:56.275 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 17:57:56.275 +08:00 [INF] Hosting environment: Development
+2022-06-01 17:57:56.276 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 17:57:58.541 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 17:57:58.783 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 246.0956ms
+2022-06-01 17:57:58.941 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 17:57:59.127 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 185.3415ms
+2022-06-01 17:58:02.720 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 18:01:28.790 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 18:01:29.692 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 18:01:29.692 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 18:01:29.693 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 18:01:29.693 +08:00 [INF] Hosting environment: Development
+2022-06-01 18:01:29.694 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 18:01:31.782 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 18:01:32.045 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 266.1795ms
+2022-06-01 18:01:32.231 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 18:01:32.417 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 186.5653ms
+2022-06-01 18:01:39.151 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 18:01:49.267 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 10115.5874ms
+2022-06-01 18:05:05.276 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 18:05:05.719 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 18:05:05.720 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 18:05:05.721 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 18:05:05.722 +08:00 [INF] Hosting environment: Development
+2022-06-01 18:05:05.723 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 18:05:06.542 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 18:05:06.743 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 205.5118ms
+2022-06-01 18:05:06.756 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 18:05:06.758 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.6254ms
+2022-06-01 18:05:06.865 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 18:05:07.018 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 153.3043ms
+2022-06-01 18:05:11.467 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 18:05:11.496 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 18:05:11.531 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 18:05:11.719 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 18:05:11.913 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 376.1049ms
+2022-06-01 18:05:11.916 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 18:05:11.950 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 - application/json 482.7533ms
+2022-06-01 18:05:49.814 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 18:05:50.491 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 18:05:50.493 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 18:05:50.493 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 18:05:50.494 +08:00 [INF] Hosting environment: Development
+2022-06-01 18:05:50.494 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 18:05:50.750 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 18:05:50.907 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 158.5109ms
+2022-06-01 18:05:50.916 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 18:05:50.919 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.9416ms
+2022-06-01 18:05:51.007 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 18:05:51.112 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 105.6842ms
+2022-06-01 18:06:08.137 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 18:06:08.713 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 18:06:08.716 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 18:06:08.717 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 18:06:08.718 +08:00 [INF] Hosting environment: Development
+2022-06-01 18:06:08.719 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 18:06:08.824 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 18:06:08.949 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 127.2306ms
+2022-06-01 18:06:08.950 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 18:06:08.952 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.6178ms
+2022-06-01 18:06:09.029 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 18:06:09.108 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 78.4687ms
+2022-06-01 18:06:35.082 +08:00 [INF] Application is shutting down...
+2022-06-01 18:07:39.710 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 18:07:40.307 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 18:07:40.309 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 18:07:40.310 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 18:07:40.311 +08:00 [INF] Hosting environment: Development
+2022-06-01 18:07:40.311 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 18:07:40.992 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 18:07:41.158 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 176.6736ms
+2022-06-01 18:07:41.174 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 18:07:41.176 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.7061ms
+2022-06-01 18:07:41.278 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 18:07:41.387 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 108.8814ms
+2022-06-01 18:07:44.545 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 135
+2022-06-01 18:07:44.551 +08:00 [INF] CORS policy execution successful.
+2022-06-01 18:07:44.574 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 18:07:44.615 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 18:07:44.819 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 198.9838ms
+2022-06-01 18:07:44.822 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 18:07:44.858 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 135 - 200 - application/json 313.1917ms
+2022-06-01 18:08:15.925 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 18:08:16.500 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 18:08:16.502 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 18:08:16.504 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 18:08:16.504 +08:00 [INF] Hosting environment: Development
+2022-06-01 18:08:16.505 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 18:08:16.624 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 18:08:16.771 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 149.0677ms
+2022-06-01 18:08:16.773 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 18:08:16.777 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.3318ms
+2022-06-01 18:08:16.875 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 18:08:17.013 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 138.4767ms
+2022-06-01 18:08:20.355 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16
+2022-06-01 18:08:20.361 +08:00 [INF] CORS policy execution successful.
+2022-06-01 18:08:20.389 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 18:08:20.439 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 18:08:20.674 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 225.432ms
+2022-06-01 18:08:20.677 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 18:08:20.727 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16 - 200 - application/json 372.6089ms
+2022-06-01 20:17:23.912 +08:00 [INF] Application is shutting down...
+2022-06-01 21:03:39.344 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 21:03:40.316 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 21:03:40.317 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 21:03:40.318 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 21:03:40.318 +08:00 [INF] Hosting environment: Development
+2022-06-01 21:03:40.319 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 21:03:42.616 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 21:03:42.955 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 340.1870ms
+2022-06-01 21:03:43.190 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 21:03:43.381 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 190.8467ms
+2022-06-01 21:03:50.416 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 21:03:58.353 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 21:03:58.414 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 21:05:14.120 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 21:05:15.575 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 77151.2704ms
+2022-06-01 21:05:15.642 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 21:06:16.608 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 - application/json 146191.3863ms
+2022-06-01 21:06:33.942 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16
+2022-06-01 21:06:33.948 +08:00 [INF] CORS policy execution successful.
+2022-06-01 21:13:53.183 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 21:13:53.698 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 21:13:53.699 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 21:13:53.700 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 21:13:53.701 +08:00 [INF] Hosting environment: Development
+2022-06-01 21:13:53.701 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 21:13:54.538 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 21:13:54.802 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 269.8287ms
+2022-06-01 21:13:54.835 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 21:13:54.853 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 17.3178ms
+2022-06-01 21:13:55.046 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 21:13:55.215 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.0908ms
+2022-06-01 21:14:01.520 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16
+2022-06-01 21:14:01.528 +08:00 [INF] CORS policy execution successful.
+2022-06-01 21:14:01.555 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 21:14:01.609 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 21:14:01.814 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 199.4409ms
+2022-06-01 21:14:01.817 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 21:14:01.818 +08:00 [ERR] Unhandled exception....
+2022-06-01 21:14:01.820 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16 - 200 0 - 299.7973ms
+2022-06-01 21:14:46.779 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 21:14:47.693 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 21:14:47.695 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 21:14:47.696 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 21:14:47.696 +08:00 [INF] Hosting environment: Development
+2022-06-01 21:14:47.697 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 21:14:49.989 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 21:14:50.359 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 367.3228ms
+2022-06-01 21:14:50.560 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 21:14:50.757 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 197.1517ms
+2022-06-01 21:14:55.660 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16
+2022-06-01 21:14:55.675 +08:00 [INF] CORS policy execution successful.
+2022-06-01 21:14:55.716 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 21:14:55.768 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 21:15:34.238 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 38463.5762ms
+2022-06-01 21:15:34.321 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 21:15:38.331 +08:00 [ERR] Unhandled exception....
+2022-06-01 21:15:43.895 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16 - 200 0 - 48235.7503ms
+2022-06-01 23:44:08.548 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 23:44:15.228 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 23:44:15.229 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 23:44:15.230 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 23:44:15.231 +08:00 [INF] Hosting environment: Development
+2022-06-01 23:44:15.231 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 23:44:15.980 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 23:44:16.210 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 229.4956ms
+2022-06-01 23:44:16.241 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 23:44:16.249 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 7.8667ms
+2022-06-01 23:44:16.368 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 23:44:16.517 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 148.4379ms
+2022-06-01 23:44:20.822 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 23:44:20.858 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:44:20.898 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:44:21.129 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 23:44:21.438 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 533.6848ms
+2022-06-01 23:44:21.441 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:44:21.446 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+SqlSugar.SqlSugarException: 中文提示 :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：ORA-12545: Network Transport: Unable to resolve connect hostname.
+English Message : Connection open error . ORA-12545: Network Transport: Unable to resolve connect hostname
+   at SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   at SqlSugar.QueryableProvider`1.GetData[TResult](KeyValuePair`2 sqlObj)
+   at SqlSugar.QueryableProvider`1._ToList[TResult]()
+   at SqlSugar.QueryableProvider`1.ToList()
+   at SqlSugar.SimpleClient`1.GetList()
+   at Sqlsugar.Repositories.BaseRepository`1.<Query>b__23_0() in C:\Users\ht000244\Desktop\示例\SqlSugar.Api\Sqlsugar.Repositories\BaseRepository.cs:line 167
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Sqlsugar.Repositories.BaseRepository`1.Query() in C:\Users\ht000244\Desktop\示例\SqlSugar.Api\Sqlsugar.Repositories\BaseRepository.cs:line 167
+   at SqlSugar.Service.Service.BaseCoderuleService.GetBaseCoderuleListAsync() in C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Service\Service\BaseCoderuleService.cs:line 26
+   at SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList() in C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api\Controllers\BaseCoderuleController.cs:line 35
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Builder.Extensions.MapWhenMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-06-01 23:44:21.520 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 500 - text/plain 697.2413ms
+2022-06-01 23:44:38.998 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 23:44:39.425 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 23:44:39.427 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 23:44:39.428 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 23:44:39.429 +08:00 [INF] Hosting environment: Development
+2022-06-01 23:44:39.429 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 23:44:39.949 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 23:44:40.216 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 280.1689ms
+2022-06-01 23:44:40.224 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 23:44:40.227 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 3.1362ms
+2022-06-01 23:44:40.384 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 23:44:40.517 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 133.1511ms
+2022-06-01 23:44:59.607 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 23:44:59.659 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:44:59.703 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:44:59.910 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 23:45:00.403 +08:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`3[[System.Int32, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 23:45:00.455 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 743.645ms
+2022-06-01 23:45:00.460 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:45:00.463 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 855.9768ms
+2022-06-01 23:47:13.399 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:47:13.403 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 4.4011ms
+2022-06-01 23:47:15.591 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:47:15.595 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.9729ms
+2022-06-01 23:47:16.248 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:47:16.250 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 1.5518ms
+2022-06-01 23:47:16.458 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:47:16.461 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.1374ms
+2022-06-01 23:47:16.657 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:47:16.660 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.3586ms
+2022-06-01 23:47:24.589 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule1/get-base-coderule-list - -
+2022-06-01 23:47:24.591 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule1/get-base-coderule-list - - - 404 0 - 1.9726ms
+2022-06-01 23:47:39.097 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 23:47:39.921 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 23:47:39.922 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 23:47:39.923 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 23:47:39.923 +08:00 [INF] Hosting environment: Development
+2022-06-01 23:47:39.924 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 23:47:42.117 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 23:47:42.408 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 296.6227ms
+2022-06-01 23:47:42.591 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 23:47:42.749 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 157.7040ms
+2022-06-01 23:48:08.963 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 23:48:08.996 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:48:09.050 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:48:26.533 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 23:48:27.307 +08:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`3[[System.Int32, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 23:48:27.368 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 18311.2474ms
+2022-06-01 23:48:27.372 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:48:27.375 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 18412.5059ms
+2022-06-01 23:48:38.794 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule1/get-base-coderule-list - -
+2022-06-01 23:48:38.797 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule1/get-base-coderule-list - - - 404 0 - 3.4115ms
+2022-06-01 23:48:43.908 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 23:48:43.914 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:48:43.917 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:49:02.551 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 23:49:02.784 +08:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`3[[System.Int32, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 23:49:02.804 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 18879.3051ms
+2022-06-01 23:49:02.813 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:49:02.818 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 642 application/json;+charset=utf-8 18909.7925ms
+2022-06-01 23:49:07.039 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:49:07.042 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 2.9090ms
+2022-06-01 23:49:10.831 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:49:10.835 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.4806ms
+2022-06-01 23:56:48.720 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 23:56:49.220 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 23:56:49.221 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 23:56:49.221 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 23:56:49.222 +08:00 [INF] Hosting environment: Development
+2022-06-01 23:56:49.223 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 23:56:50.041 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 23:56:50.311 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 278.2636ms
+2022-06-01 23:56:50.348 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 23:56:50.353 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 4.0592ms
+2022-06-01 23:56:50.485 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 23:56:50.627 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 142.6579ms
+2022-06-01 23:56:55.040 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - -
+2022-06-01 23:56:55.073 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:56:55.116 +08:00 [INF] Route matched with {action = "GetBaseCoderuleList", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBaseCoderuleList() on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:56:55.318 +08:00 [INF] SELECT "CODENUMBER","TABLENAME","FRISTPLACE","CENTRALDATA","CENTRALNUMBER" FROM "BASE_CODERULE" {}
+2022-06-01 23:56:55.836 +08:00 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 23:56:55.880 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api) in 757.1042ms
+2022-06-01 23:56:55.883 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList (SqlSugar.Api)'
+2022-06-01 23:56:55.887 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list - - - 200 - application/json;+charset=utf-8 846.3323ms
+2022-06-01 23:57:06.555 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16
+2022-06-01 23:57:06.563 +08:00 [INF] CORS policy execution successful.
+2022-06-01 23:57:06.569 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 23:57:06.590 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:57:06.664 +08:00 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType2`3[[System.Int32, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-06-01 23:57:06.668 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 70.1202ms
+2022-06-01 23:57:06.668 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 23:57:06.670 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16 - 200 - application/json;+charset=utf-8 114.9167ms
+2022-06-01 23:57:34.160 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:57:34.163 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.7329ms
+2022-06-01 23:57:36.757 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - -
+2022-06-01 23:57:36.761 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/get-base-coderule-list1 - - - 404 0 - 3.1630ms
+2022-06-01 23:57:42.819 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/api/base-coderule/ - -
+2022-06-01 23:57:42.821 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/api/base-coderule/ - - - 404 0 - 1.3210ms
+2022-06-01 23:58:51.941 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 23:58:52.353 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 23:58:52.354 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 23:58:52.355 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 23:58:52.355 +08:00 [INF] Hosting environment: Development
+2022-06-01 23:58:52.356 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 23:58:53.004 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 23:58:53.249 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 247.5395ms
+2022-06-01 23:58:53.276 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 23:58:53.280 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 4.2863ms
+2022-06-01 23:58:53.416 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 23:58:53.588 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 171.5156ms
+2022-06-01 23:59:00.175 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16
+2022-06-01 23:59:00.182 +08:00 [INF] CORS policy execution successful.
+2022-06-01 23:59:00.208 +08:00 [INF] Executing endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 23:59:00.253 +08:00 [INF] Route matched with {action = "Add", controller = "BaseCoderule"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(Sqlsugar.Domain.StudentModel) on controller SqlSugar.Api.Controllers.BaseCoderuleController (SqlSugar.Api).
+2022-06-01 23:59:00.449 +08:00 [INF] Executed action SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api) in 190.5564ms
+2022-06-01 23:59:00.452 +08:00 [INF] Executed endpoint 'SqlSugar.Api.Controllers.BaseCoderuleController.Add (SqlSugar.Api)'
+2022-06-01 23:59:00.453 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: sddasd
+   at SqlSugar.Api.Controllers.BaseCoderuleController.Add(StudentModel model) in C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api\Controllers\BaseCoderuleController.cs:line 44
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Builder.Extensions.MapWhenMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-06-01 23:59:00.484 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5005/api/base-coderule/add application/json-patch+json 16 - 500 - text/plain 308.8744ms
+2022-06-01 23:59:22.079 +08:00 [INF] User profile is available. Using 'C:\Users\ht000244\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-06-01 23:59:22.611 +08:00 [INF] Now listening on: https://localhost:5005
+2022-06-01 23:59:22.612 +08:00 [INF] Now listening on: http://localhost:5004
+2022-06-01 23:59:22.613 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-01 23:59:22.613 +08:00 [INF] Hosting environment: Development
+2022-06-01 23:59:22.614 +08:00 [INF] Content root path: C:\Users\ht000244\Desktop\示例\SqlSugar.Api\SqlSugar.Api
+2022-06-01 23:59:22.815 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/index.html - -
+2022-06-01 23:59:22.982 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/index.html - - - 200 - text/html;charset=utf-8 169.9489ms
+2022-06-01 23:59:22.983 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - -
+2022-06-01 23:59:22.986 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.8397ms
+2022-06-01 23:59:23.087 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - -
+2022-06-01 23:59:23.177 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.7044ms

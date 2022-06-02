@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SqlSugar.Api</name>
+    </assembly>
+    <members>
+        <member name="T:SqlSugar.Api.Controllers.BaseApiController">
+            <summary>
+            公用api
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Controllers.BaseApiController.BuildResult``1(System.Boolean,``0,System.Int32,System.String)">
+            <summary>
+            构建操作结果
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:SqlSugar.Api.Controllers.BaseApiController.Success``1(``0,System.Int32,System.String)">
+            <summary>
+            操作成功
+            </summary>
+            <param name="data"></param>
+            <param name="total"></param>
+            <param name="msg"></param>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:SqlSugar.Api.Controllers.BaseApiController.Fail(System.String)">
+            <summary>
+            操作失败
+            </summary>
+            <param name="msg"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SqlSugar.Api.Controllers.BaseCoderuleController">
+            <summary>
+            示例接口
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Controllers.BaseCoderuleController.GetBaseCoderuleList">
+            <summary>
+            获取数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SqlSugar.Api.Controllers.LoginController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Controllers.LoginController.#ctor(Sqlsugar.Infrastructure.Helpers.IJWTService)">
+            <summary>
+            
+            </summary>
+            <param name="iJWTService"></param>
+        </member>
+        <member name="M:SqlSugar.Api.Controllers.LoginController.Login(System.String,System.String)">
+            <summary>
+             登录获取Token
+            </summary>
+            <param name="name"></param>
+            <param name="pwd"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SqlSugar.Api.Extensions.ApiJsonContractResolver">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Extensions.ApiJsonContractResolver.ResolvePropertyName(System.String)">
+            <summary>
+            解析属性名
+            </summary>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SqlSugar.Api.Mapping.PropertyMapping">
+            <summary>
+             配置构造函数，用来创建关系映射
+            </summary>
+        </member>
+        <member name="T:SqlSugar.Api.Program">
+            <summary>
+            入口
+            </summary>
+        </member>
+        <member name="T:SqlSugar.Api.Response.ResponseResult`1">
+            <summary>
+            接口输出结果实体
+            </summary>
+            <typeparam name="T">数据类型</typeparam>
+        </member>
+        <member name="P:SqlSugar.Api.Response.ResponseResult`1.Code">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="P:SqlSugar.Api.Response.ResponseResult`1.Message">
+            <summary>
+            消息内容
+            </summary>
+        </member>
+        <member name="P:SqlSugar.Api.Response.ResponseResult`1.Data">
+            <summary>
+            数据
+            </summary>
+        </member>
+        <member name="P:SqlSugar.Api.Response.ResponseResult`1.Total">
+            <summary>
+            总条数
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.#ctor">
+            <summary>
+            ctor
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.#ctor(System.Int32,System.String,`0)">
+            <summary>
+            ctor
+            </summary>
+            <param name="code">状态码</param>
+            <param name="message">消息</param>
+            <param name="data">数据</param>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.Success">
+            <summary>
+            操作成功
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.Success(System.String)">
+            <summary>
+            操作成功
+            </summary>
+            <param name="message">消息</param>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.Success(`0,System.String)">
+            <summary>
+            操作成功
+            </summary>
+            <param name="data">数据</param>
+            <param name="message">消息</param>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.Success(`0,System.Int32,System.String)">
+            <summary>
+            操作成功，分页数据
+            </summary>
+            <param name="data"></param>
+            <param name="total"></param>
+            <param name="message"></param>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.Fail">
+            <summary>
+            操作失败
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Response.ResponseResult`1.Fail(System.String)">
+            <summary>
+            操作失败
+            </summary>
+            <param name="message">消息</param>
+        </member>
+        <member name="T:SqlSugar.Api.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SqlSugar.Api.Startup.CorsAllowAll">
+            <summary>
+            允许所有源的策略名
+            </summary>
+        </member>
+        <member name="M:SqlSugar.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:SqlSugar.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+        <member name="M:SqlSugar.Api.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            接口注入
+            </summary>
+            <param name="builder"></param>
+        </member>
+    </members>
+</doc>

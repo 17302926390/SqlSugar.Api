@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sqlsugar.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:Sqlsugar.Domain.Model.BaseCoderule">
+             <summary>
+             
+            </summary>
+        </member>
+        <member name="P:Sqlsugar.Domain.Model.BaseCoderule.CODENUMBER">
+             <summary>
+             唯一编号 
+            </summary>
+        </member>
+        <member name="P:Sqlsugar.Domain.Model.BaseCoderule.TABLENAME">
+             <summary>
+             表名 
+            </summary>
+        </member>
+        <member name="P:Sqlsugar.Domain.Model.BaseCoderule.FRISTPLACE">
+             <summary>
+             首位字符（2位字符）【录入】 
+            </summary>
+        </member>
+        <member name="P:Sqlsugar.Domain.Model.BaseCoderule.CENTRALDATA">
+             <summary>
+             中间日期格式 yyMMdd 【公用方法】 
+            </summary>
+        </member>
+        <member name="P:Sqlsugar.Domain.Model.BaseCoderule.CENTRALNUMBER">
+             <summary>
+             中间流水号占位长度（数字+字母）【公用方法】 
+            </summary>
+        </member>
+    </members>
+</doc>
